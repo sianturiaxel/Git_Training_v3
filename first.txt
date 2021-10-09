@@ -1,1 +1,2 @@
-ini contoh file pertama v1
+ini contoh file pertama v1 v2
+ 
